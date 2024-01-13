@@ -1,9 +1,8 @@
-![github-banner](https://github.com/LakshanRukantha/LakshanRukantha/assets/64830641/6da6dd20-678c-4a8a-8307-449e0ee35d98)
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=8B5CF6&vCenter=true&random=false&width=435&lines=Self-Taught+Software+Engineer;DevOps+Enthusiast;UI%2FUX+Engineer;Software+Engineering+Undergraduate)
+![github-banner](https://github.com/pritam707/image/blob/main/Banner.gif?raw=true)
+
+![![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Node+Js+Developer;Backend+Developer;Full+Stack+Develeoper)](https://git.io/typing-svg)
 
 ```typescript
-
 const myDetails = {
   name: "Lakshan Rukantha",
   title: "Self-Taught Software Engineer & DevOps Enthusiast",
@@ -19,16 +18,15 @@ const myDetails = {
   writings: [
     {
       name: "Medium",
-      link: "https://medium.com/@lakshanrukantha"
+      link: "https://medium.com/@lakshanrukantha",
     },
     {
       name: "Dev.to",
-      link: "https://dev.to/lakshanrukantha"
-    }
+      link: "https://dev.to/lakshanrukantha",
+    },
   ],
-  hobbies: "Programming, Traveling, Photography"
+  hobbies: "Programming, Traveling, Photography",
 };
-
 ```
 
 ## 📊 GitHub Stats
@@ -43,6 +41,7 @@ const myDetails = {
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lakshanrukantha&theme=github-compact)
 
 <!-- Tech Stack -->
+
 ## 💻 Tech Stack
 
 ### Languages, Libraries & Frameworks
@@ -54,6 +53,7 @@ const myDetails = {
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-yellow?style=for-the-badge&logo=pnpm&logoColor=white) ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 <!-- My Projects -->
+
 ## 🧩 My Projects
 
 - [CeylonJobSeeker](https://ceylonjobseeker.com) (Job listing portal.)
@@ -72,9 +72,7 @@ const myDetails = {
 <summary>View More</summary>
 
 - [My Battery](https://mybattery.vercel.app/) (Real-Time battery status previewer.)
-  
 - [CutLink](https://cut-link.netlify.app/) (Link shortner web application.)
-  
 - [WeatherCast](https://weathercast-pro.netlify.app/) (Realtime weather information web application.)
 
 - [TaskHub](https://taskhub-online.netlify.app/) (Tasks management web application.)
@@ -86,16 +84,22 @@ const myDetails = {
 </details>
 
 <!-- GitHub Trophies -->
+
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=lakshanrukantha&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
 <!-- Holopin Badges -->
+
 ## 📛 Holopin Badges
+
 [![An image of @lakshanrukantha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lakshanrukantha)](https://holopin.io/@lakshanrukantha)
 
 <!-- Socials -->
+
 ## 🌐 Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/944559009900425226) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://facebook.com/lakshanrukantha.laki) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/lakshan_rukantha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/lakshanrukantha) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/17067744/lakshan-rukantha) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/lakshanrukantha) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge)](https://www.youtube.com/channel/UCiycB6CNN8fHEnvwBSLTajA) 
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/944559009900425226) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://facebook.com/lakshanrukantha.laki) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/lakshan_rukantha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/lakshanrukantha) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/17067744/lakshan-rukantha) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/lakshanrukantha) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge)](https://www.youtube.com/channel/UCiycB6CNN8fHEnvwBSLTajA)
 
 <hr/>
 
@@ -104,6 +108,7 @@ const myDetails = {
 <hr/>
 
 <!-- Random Dev Quote -->
+
 ### ✍️ Random Dev Quote
 
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark&hide_border=true&show_icons=true)
@@ -111,5 +116,6 @@ const myDetails = {
 <hr/>
 
 <!-- Status -->
+
 ![Profile Views](https://komarev.com/ghpvc/?username=lakshanrukantha)
 ![GitHub last commit](https://img.shields.io/github/last-commit/lakshanrukantha/LakshanRukantha)
