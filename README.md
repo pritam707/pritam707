@@ -1,6 +1,6 @@
 ![github-banner](https://github.com/pritam707/image/blob/main/Banner.gif?raw=true)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Node+Js+Developer;Backend+Developer;Full+Stack+Developer;Software+Developer)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Node+Js+Developer;Backend+Developer;Full+Stack+Developer;Software+Developer)
 
 ```typescript
 const myDetails = {
